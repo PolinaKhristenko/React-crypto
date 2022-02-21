@@ -1,6 +1,6 @@
-# React-crypto (responsive)
+# React-crypto
 
-React based application, which tracks current crypto price, using hooks, API and axios. It also has working search bar.
+Responsive React based application, which tracks current crypto price, using hooks, API and axios. It also has working search bar.
 
 Here are some screenshots:
 
