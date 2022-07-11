@@ -2,8 +2,6 @@
 
 ### It tracks current crypto price, using hooks, API and axios. It also has working search bar.
 
-Here are some screenshots:
-
 ### 1. Overall look and hover:
 
 <img width="1401" alt="Screenshot 2022-02-15 at 10 35 58" src="https://user-images.githubusercontent.com/88159970/154021515-53a2d21f-02a5-42f1-82de-e3f02f3a29d1.png">
